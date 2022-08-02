@@ -37,3 +37,18 @@ A data table was created with tradable Cryptocurrencies
 
 ---
 
+
+<img width="530" alt="Screen Shot 2022-08-02 at 3 18 35 PM" src="https://user-images.githubusercontent.com/98849217/182455777-7003e27c-7d58-46c6-88df-bf2b59866ed9.png">
+
+
+<img width="872" alt="Screen Shot 2022-08-02 at 3 19 05 PM" src="https://user-images.githubusercontent.com/98849217/182455844-12a3e6c2-4def-44af-980a-fd5a1908f267.png">
+
+
+<img width="920" alt="Screen Shot 2022-08-02 at 3 19 41 PM" src="https://user-images.githubusercontent.com/98849217/182455947-f57de110-57a0-4c7f-87c2-86419292a7f0.png">
+
+
+<img width="916" alt="Screen Shot 2022-08-02 at 3 20 20 PM" src="https://user-images.githubusercontent.com/98849217/182456100-ad46649d-0ad2-4221-9944-a8dcce663dc5.png">
+
+### Summary
+
+We have created data frames, cleaned up data, standardadized data for further analysis. PCA and subsequent K-Means clustering on the 3 PC components in PCA was performed on pre-processed data. We found 4 clusters of Cryptocurrencies.
